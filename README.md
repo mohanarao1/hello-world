@@ -1,3 +1,3 @@
 # hello-world
 just new one
-i am using gothub for the first time
+i am using github for the first time
